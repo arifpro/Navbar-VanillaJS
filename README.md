@@ -17,5 +17,5 @@ This website is deployed on Github.
 ### Small Screen (Before toggle clicked)
 ![Navbar-2](https://i.ibb.co/9gLgH4R/Navbar-2.png)
 
-### Small Screen (Agter toggle clicked)
+### Small Screen (After toggle clicked)
 ![Navbar-3](https://i.ibb.co/RyxYCgs/Navbar-3.png)
