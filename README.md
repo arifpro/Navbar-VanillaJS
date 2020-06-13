@@ -1,10 +1,10 @@
 # Navbar-VanillaJS
 A simple vanilla JavaScript project for Navbar with responsive and functionality.
 
-## Deployment
+## Deployment
 This website is deployed on Github.
 
-## Tech/framework used
+## Tech/framework used
  - HTML
  - CSS
  - Vanilla JS
