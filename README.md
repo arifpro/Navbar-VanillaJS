@@ -5,11 +5,11 @@ A simple vanilla JavaScript project for Navbar with responsive and functio
 This website is deployed on Github.
 
 ## Tech/framework used
- - HTML
- - CSS
- - Vanilla JS
+  - HTML
+  - CSS
+  - Vanilla JS
 
-## Screenshots
+## Screenshots
 
 ### Wide Screen
 ![Navbar-1](https://i.ibb.co/g9ffYHM/Navbar-1.png)
